@@ -7,7 +7,7 @@ from setuptools import setup
 
 here = path.abspath(path.dirname(__file__))
 
-version = '0.1'
+version = '0.2'
 
 # Get the long description from the README file
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
